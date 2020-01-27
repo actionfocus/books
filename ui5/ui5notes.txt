@@ -1,0 +1,17 @@
+https://sapui5.netweaver.ondemand.com/sdk
+
+https://openui5.hana.ondemand.com/explored.html
+
+检查UI5的版本的两种方法：
+在ABAP AS上输入http://[host]:[port]/sap/public/bc/ui5_ui5/
+在developer console上输入sap.ui.version
+
+UI5常用control libraries:
+sap.ui.commons
+sap.ui.ux3
+sap.ui.table
+sap.m
+
+
+
+
